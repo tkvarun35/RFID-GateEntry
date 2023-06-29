@@ -1,0 +1,2 @@
+C:\WINDOWS\system32
+将五个文件放入此目录下
